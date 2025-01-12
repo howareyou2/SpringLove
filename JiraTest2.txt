@@ -1,0 +1,3 @@
+https://aggopji.atlassian.net/browse/WN-7
+
+풀리퀘스트 automation테스트
